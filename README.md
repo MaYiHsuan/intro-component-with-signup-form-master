@@ -1,6 +1,4 @@
-# Frontend Mentor - Intro component with sign up form
-
-![Design preview for the Intro component with sign up form coding challenge](./design/desktop-preview.jpg)
+# Intro component with sign up form
 <img src="./design/desktop-preview.jpg" stayle="width: 500px">
 <img src="./design/mobile-design.jpg" stayle="width: 300px">
 ## Hello! 👋
