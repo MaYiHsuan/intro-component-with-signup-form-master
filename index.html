@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  
+  <title>Intro component with sign up form</title>
+
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <form id="myForm">
+    <div class="left">
+      <h1>Learn to code by watching others</h1>
+      <p class="title">See how experienced developers solve problems in real-time. Watching scripted tutorials is great, 
+        but understanding how developers think is invaluable.</p>
+    </div>
+    <div class="right">
+      <div class="blue-box">
+        <p class="blue-text">Try it free 7 days <span class="blue-smalltext"> then $20/mo. thereafter </span></p>
+      </div>
+      <div class="white-box">
+        <div class="input-box">
+          <div class="input-container">
+            <input type="text" id="input1" placeholder="First Name">
+            <img class="warning-icon" src="./images/icon-error.svg" alt="Warning Icon" id="icon1">
+          </div>
+          <span class="outtext" id="outtext1">First Name cannot be emply</span>
+        </div>
+        <div class="input-box">
+          <div class="input-container">
+            <input type="email" id="input2" placeholder="Last Name">
+            <img class="warning-icon" src="./images/icon-error.svg" alt="Warning Icon" id="icon2">
+          </div>
+          <span class="outtext" id="outtext2">Last Name cannot be emply</span>
+        </div>
+        <div class="input-box">
+          <div class="input-container">
+            <input type="text" id="input3" placeholder="Email Address">
+            <img class="warning-icon" src="./images/icon-error.svg" alt="Warning Icon" id="icon3">
+            <span class="warning-text">email@example/com</span>
+          </div>
+          <span class="outtext" id="outtext3">Email Address cannot be emply</span>
+        </div>
+        <div class="input-box">
+          <div class="input-container">
+            <input type="text" id="input4" placeholder="Password">
+            <img class="warning-icon" src="./images/icon-error.svg" alt="Warning Icon" id="icon4">
+          </div>
+          <span class="outtext" id="outtext4">Password cannot be emply</span>
+        </div> 
+        <button type="submit">CLAIM YOUR FREE TRIAL</button>
+        <div class="button-smalltext">
+          <span>
+            <p>By clicking the button, you are agreeing to our </p>
+            <p style="color: hsl(0, 100%, 74%); font-weight: 600;">Terms and Services</p>
+          </span>
+        </div>
+      </div> 
+     </div>
+  </form>
+
+  <script src="./index.js" charset=““utf-8””></script>
+</body>
+</html>
