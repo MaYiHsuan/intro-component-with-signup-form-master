@@ -7,4 +7,4 @@
 Welcome to Cindy's front-end coding challenge. I randomly tackle different projects on Frontend Mentor. Thank you for watching.
 
 ## GitHub Pages
-You can view the live demo [here](https://mayihsuan.github.io/social-proof-section-master/).
+You can view the live demo [here](https://mayihsuan.github.io/intro-component-with-signup-form-master/).
