@@ -1,6 +1,6 @@
 # Intro component with sign up form
-<img src="./design/desktop-preview.jpg" stayle="width: 500px">
-<img src="./design/mobile-design.jpg" stayle="width: 300px">
+<img src="./design/desktop-preview.jpg" alt="Photo 1" width="500">
+<img src="./design/mobile-design.jpg" alt="Photo 2" width="300">
 ## Hello! 👋
 Welcome to Cindy's front-end coding challenge. I randomly tackle different projects on Frontend Mentor. Thank you for watching.
 
